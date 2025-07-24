@@ -1,2 +1,2 @@
 # vimrc
-vimrc for different platform
+vimrc for vscode and visual studio 
